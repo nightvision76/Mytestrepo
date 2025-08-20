@@ -1,4 +1,4 @@
-# Project Title
+# my-first-repository
 
 A concise, one-sentence overview of the project's purpose and main function.
 
